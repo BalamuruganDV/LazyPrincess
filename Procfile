@@ -1,1 +1,1 @@
-web: python3 bot.py
+WORKDIR: python3 bot.py
